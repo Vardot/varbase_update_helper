@@ -1,6 +1,6 @@
-name: 'varbase_update_helper'
+name: 'Varbase Updates'
 type: module
-description: 'Varbase update helper'
+description: 'This modules provides a UI to review Varbase Updates that are made available in every version.'
 core: 8.x
 package: 'Varbase'
 dependencies:
